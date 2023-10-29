@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keep Browsing safely!</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="check_url">Check URL</string>
+</resources>
